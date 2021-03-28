@@ -1,0 +1,9 @@
+C:\Users\MaLikai\Desktop\dlltest\RetroSnake\RetroSnake\bin\Debug\RetroSnake.exe.config
+C:\Users\MaLikai\Desktop\dlltest\RetroSnake\RetroSnake\obj\Debug\RetroSnake.csprojResolveAssemblyReference.cache
+C:\Users\MaLikai\Desktop\dlltest\RetroSnake\RetroSnake\obj\Debug\Demo.Form1.resources
+C:\Users\MaLikai\Desktop\dlltest\RetroSnake\RetroSnake\obj\Debug\RetroSnake.Properties.Resources.resources
+C:\Users\MaLikai\Desktop\dlltest\RetroSnake\RetroSnake\obj\Debug\RetroSnake.csproj.GenerateResource.Cache
+C:\Users\MaLikai\Desktop\dlltest\RetroSnake\RetroSnake\bin\Debug\RetroSnake.exe
+C:\Users\MaLikai\Desktop\dlltest\RetroSnake\RetroSnake\bin\Debug\RetroSnake.pdb
+C:\Users\MaLikai\Desktop\dlltest\RetroSnake\RetroSnake\obj\Debug\RetroSnake.exe
+C:\Users\MaLikai\Desktop\dlltest\RetroSnake\RetroSnake\obj\Debug\RetroSnake.pdb
